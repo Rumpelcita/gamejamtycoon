@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="items" tilewidth="16" tileheight="16">
+  <image source="Assets Varios.png" width="640" height="256"/>
+ </tileset>
+ <tileset firstgid="641" name="walls" tilewidth="16" tileheight="16">
+  <image source="Paredes.png" width="352" height="256"/>
+ </tileset>
+ <layer name="floor" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzzEKACAMBEEhKPH/HxYLO5tYmITswPV7rQEAKplin7eszd2wCF9oprl6szeaaaaZ5pfm073dOqPK1DzENg3wgeY/VOxDLAu4YQpN
+  </data>
+ </layer>
+ <layer name="walls" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlssKgkAUhqeRoNcOrVWLoJatoqAL0QXaFGQRhdC2y0P0Ev2iksmMThLjMeaDjyMy4Lc4MDJmMBj+kRlnbAHnCnMJV7AOHWjHZgM2uZ7mI75zhieFeYAebMGnwJ7G5j10U2b0nNXcJ9bsEmu+w1vGTDZXrMAxD+SW3uZviJpFUG5ul6x5He6JCKrNl3DHRVBt9sI7xU7opOzMr8nTPJA4JNzckdg1zVLyNI/4+y6JnMAp4eaiKWvzRrFjy2k078J/H5+qJT7jv/eNny2SKxoeis3xs0VSk3RSxjTroYzNhk9ezwB+cQ==
+  </data>
+ </layer>
+ <layer name="cabinet" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzkENADAIBDCCg8mZHPybmAZeyyWtglYBQIbTvwd7N/A8gWcAAICtB1QJALI=
+  </data>
+ </layer>
+ <layer name="tables" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1MkJgEAQRNGeYDQPl2RcknFJQ+8uaWg2inV1kAZB6AHrwT/IINSpRYiI6I8SJ5KiDOXu/jag0WSVrsDOElWo9jZvaDdZpWuws0Ud6r3NBzpNVukm7JzRglZvc4Tv2D3/R0Tf0O5zqLT7HCrtPodKu89ERET03gUlMRU/
+  </data>
+ </layer>
+ <layer name="computer" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1MENQEAYROHZ7cmNg0K464luqMgWYCQKICJ/Nt6XzP2dRgIAvDUnaUnRFc+s7t2u5j025bY2S5035egSAPhW8Rp/XV/R353Ng3vHipoBAMC/HXiYB8M=
+  </data>
+ </layer>
+ <layer name="props" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzkENACEMAEHABRLADedfxSmgFvpqSGaS/W9rAO/o0aieSFrRrp5IOtFXPZH0R7NXXwAAAPCKC9l6AgY=
+  </data>
+ </layer>
+ <layer name="doors" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzrENwCAMAEF6sg1sQ7aBwfEKrhxFd9L33xrAP/ToqZ5IGtGsnkha0Vs9kbSjUz0BAADAp1z+0AI9
+  </data>
+ </layer>
+</map>

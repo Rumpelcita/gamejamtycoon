@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="items" tilewidth="16" tileheight="16">
+  <image source="Assets Varios.png" width="640" height="256"/>
+ </tileset>
+ <tileset firstgid="641" name="walls" tilewidth="16" tileheight="16">
+  <image source="Paredes.png" width="352" height="256"/>
+ </tileset>
+ <layer name="floor" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJACAMBEFBkNh/w1qDcKIwC/fOpDVJ0s/Nnh8zMzMzMzMzM3PefPrbD71krn1/BFeB/5jvmdPTWy2G4RSL
+  </data>
+ </layer>
+ <layer name="walls" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztllEKwyAQRMX7X6VJms8WohJacoCmuU4miFBiJIJrITAPhl2E0fepUoSQK3DTSjVIi3TC8470Wt55xJ0GscgbeQlOh0yVne3PXjLDfjVn8yfnLzILzdrONaGzh84xdPbQOYbOHjrH0NmzOT+QZ2KGfU84P+vVcB4y/mru4N2cnkl0S/lk/NGWg3dzenOiSwghUqwZeKF4
+  </data>
+ </layer>
+ <layer name="doors" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzrkRgDAQwEDnPM0AboanGTB1WyVcwlyAdka5SpGkbw000kRz8kvUQittVJNfonY66KQr+SXqpocavckvkiRJkqR/6aEkBIk=
+  </data>
+ </layer>
+ <layer name="cabinets" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzkENwCAABMGjDioHOZVVOcipCxxA+iGEzHz3swkAACT3Ne5vWfPxR508tw2fn8nzt+EzAMCJOuTWAvg=
+  </data>
+ </layer>
+ <layer name="tables" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0MkJgFAMhOG8YrQPl2ZcmnFpQ+8ubWg3inMVAuGBEIT54D/lMkSEiIjobUKz94hIBzq9R0S60O09IlISRNLgveIfMvwpRwUqlZ9Zdw8VdtSoQa2yybp76LCjRwMalU3W3cOCHSva0K5ssu5ERERE9I0H7swVPw==
+  </data>
+ </layer>
+ <layer name="computers" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzrERgCAAQ9HADLKNFo7jTrANbKM7mAXECqX47y5Vmi8BAADMLQephOf/9Hd1/j9U97RO0xKl5O3xu6Y3q1s275ioCQAAABjlBi4rBfo=
+  </data>
+ </layer>
+ <layer name="laptops" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzrENgCAARcEPO8k2sr6OIbWJHZiQ3LWveQkAAKtcJbnLdz9q0up/PzOc47dv9gwAAG8PXVADAA==
+  </data>
+ </layer>
+ <layer name="props" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzjENACAMRFGKC3AAbsC/CjBABXTp1JT8l/zlpisFAPIQrUafcBrajD7htLQdfcLpaE2iXwD/uMbWxd4BAACAjB600wQH
+  </data>
+ </layer>
+</map>
